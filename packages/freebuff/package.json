@@ -1,0 +1,16 @@
+{
+  "name": "@magpie-community/opencode-freebuff-auth",
+  "version": "0.1.0",
+  "description": "Freebuff free models through device sign-in (experimental - see README warnings)",
+  "type": "module",
+  "main": "./index.mjs",
+  "exports": "./index.mjs",
+  "files": ["index.mjs", "README.md"],
+  "keywords": ["opencode", "opencode-plugin", "magpie", "freebuff"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magpie-community/plugins.git",
+    "directory": "packages/freebuff"
+  }
+}
